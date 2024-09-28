@@ -1,8 +1,8 @@
-//var nameOfDog;          // undefined
+var nameOfDog;          // undefined
 
-//console.log(nameOfDog); // Output -> undefined
-//var nameOfDog = 'Ramon'
-//console.log(nameOfDog); // Output -> Ramon 
+console.log(nameOfDog); // Output -> undefined
+var nameOfDog = 'Ramon'
+console.log(nameOfDog); // Output -> Ramon 
 
 var Ramon; 
 function nameOfDog() {
